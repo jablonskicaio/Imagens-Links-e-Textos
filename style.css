@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin:1vh;
+}
+
+nav{
+    padding: 2vh;
+    font-size: 4vh;
+}
+a{
+    padding:1vh;
+}
+p{
+    font-size: 3vh;
+}
+li{
+    font-size: 3vh;
+}
+
